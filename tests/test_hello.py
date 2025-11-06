@@ -19,7 +19,7 @@ def test_hello_world():
     """Test the basic hello world endpoint"""
     response = client.get("/api/v1/hello")
     assert response.status_code == 200
-    assert response.json() == {"message": "HELLO WORLD"}
+    assert response.json() == {"message": "HELLO WORLD, This is a sample GET method"}
 
 
 def test_hello_person():

@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "filename": "pdfsam.pdf",
+  "page_count": 1,
+  "character_count": 1,
+  "word_count": 0,
+  "processing_time_seconds": 0.42,
+  "extracted_text": "\n",
+  "full_text_available": true,
+  "extraction_method": "pdfplumber",
+  "timestamp": "2025-11-06 14:35:15"
+}
